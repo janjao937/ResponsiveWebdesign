@@ -21,7 +21,7 @@ body
     content: "mobile";
 }
 
-
+/* min = max  | max = min */
 @media (min-width : 480px) 
 { 
     .content-text::after
